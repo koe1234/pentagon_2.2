@@ -1,0 +1,2 @@
+ver22.rom - gluk 6.3 + quick commander
+ver22b.rom - gluk 6.3 + 128 basic
